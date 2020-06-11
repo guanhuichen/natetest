@@ -13,7 +13,7 @@ def main(args):
     with open(args.sum, 'w') as sum_path:
         sum_path.write('{}'.format(args.arg1 + args.arg2))
         
-     with open(args.minus, 'w') as minus_path:
+    with open(args.minus, 'w') as minus_path:
         minus_path.write('{}'.format(args.arg1 - args.arg2))
 
 
