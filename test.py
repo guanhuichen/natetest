@@ -18,6 +18,8 @@ def main(args):
     Path(args.minus).parent.mkdir(parents=True, exist_ok=True)
     with open(args.minus, 'w') as minus_path:
         minus_path.write('{}'.format(args.arg1 - args.arg2))
+        
+    Path('/etc/nate').mkdir(parents=True, exist_ok=True)
 
 
 if __name__ == '__main__':
