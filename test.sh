@@ -3,6 +3,8 @@ ls -l /tmp/inputs
 
 ls -l /home/eap
 
+cat /home/eap/python/src/main.py
+
 ls -l
 
 vim --version
