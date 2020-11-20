@@ -1,4 +1,5 @@
 #!/bin/bash -e
+ls -l /tmp/inputs
 
 ls -l
 
