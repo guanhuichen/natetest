@@ -3,6 +3,8 @@ ls -l /tmp/inputs
 
 ls -l /component/shell/src/main.py
 
+mkdir -p /home/eap/nate
+
 ls -l /home/eap
 
 whoami
@@ -15,6 +17,6 @@ vim --version
 
 mkdir -p /tmp/inputs/nate
 
-mkdir -p /home/eap/nate
+
 
 mkdir -p /etc/nate
