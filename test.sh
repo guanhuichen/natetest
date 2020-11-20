@@ -9,8 +9,6 @@ ls -l /home/eap
 
 whoami
 
-cat /component/shell/src/main.py
-
 ls -l
 
 vim --version
