@@ -5,7 +5,7 @@ ls -l /home/eap
 
 whoami
 
-cat /component/python/src/main.py
+cat /component/shell/src/main.py
 
 ls -l
 
