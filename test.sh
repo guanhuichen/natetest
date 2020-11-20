@@ -1,6 +1,8 @@
 #!/bin/bash -e
 ls -l /tmp/inputs
 
+ls -l /component/shell/src/main.py
+
 ls -l /home/eap
 
 whoami
