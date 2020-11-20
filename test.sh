@@ -2,7 +2,7 @@
 
 ls -l
 
-command -v vim
+vim --version
 
 mkdir -p /tmp/inputs/nate
 
