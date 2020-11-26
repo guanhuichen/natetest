@@ -16,4 +16,4 @@ vim --version
 mkdir -p /tmp/inputs/nate
 
 
-mkdir -p /etc/nate
+sudo mkdir -p /etc/nate
