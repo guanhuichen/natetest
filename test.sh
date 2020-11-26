@@ -16,4 +16,4 @@ vim --version
 mkdir -p /tmp/inputs/nate
 
 
-pwd
+$(pwd)
