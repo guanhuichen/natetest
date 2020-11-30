@@ -11,9 +11,10 @@ whoami
 
 ls -l
 
-vim --version
+which vim
 
 mkdir -p /tmp/inputs/nate
 
+ls -l /etc
 
-$(pwd)
+ls -l /usr/bin/chage
