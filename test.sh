@@ -15,6 +15,8 @@ which vim
 
 mkdir -p /tmp/inputs/nate
 
+set -e
+
 ls -l /etc
 
 ls -l /usr/bin/chage
