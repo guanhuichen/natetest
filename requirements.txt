@@ -1,3 +1,4 @@
 pandas
 mlflow==1.8.0
 sklearn
+pyarrow
